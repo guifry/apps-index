@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "ray-peat-db",
+    "name": "Ray Peat archive",
+    "description": "Full-text search across every article on raypeat.com with fuzzy matching and quoted snippets.",
+    "url": "https://guifry.github.io/ray-peat-db/",
+    "repo": "https://github.com/guifry/ray-peat-db",
+    "platform": "GitHub Pages",
+    "tags": ["search", "archive", "static"]
+  },
+  {
+    "slug": "3-way-forecasting-mathematics",
+    "name": "Three-Way Forecasting — Mathematics",
+    "description": "Readable introduction to the maths behind three-way (P&L, balance sheet, cashflow) business forecasting.",
+    "url": "https://guifry.github.io/3-way-forecasting-mathematics/",
+    "repo": "https://github.com/guifry/3-way-forecasting-mathematics",
+    "platform": "GitHub Pages",
+    "tags": ["finance", "course", "maths"]
+  },
+  {
+    "slug": "cpge-mathematics",
+    "name": "CPGE Mathematics",
+    "description": "Hybrid maths curriculum for French CPGE students — Bourbaki rigour, historical progression.",
+    "url": "https://guifry.github.io/cpge-mathematics/",
+    "repo": "https://github.com/guifry/cpge-mathematics",
+    "platform": "GitHub Pages",
+    "tags": ["maths", "education", "curriculum"]
+  },
+  {
+    "slug": "jonny-sax-landing",
+    "name": "Jonny Diggens — jonnydiggens.com",
+    "description": "Landing page for Jonny Diggens, Edinburgh-based saxophonist for hire (weddings, corporate, private events).",
+    "url": "http://jonnydiggens.com/",
+    "repo": "https://github.com/guifry/jonny-sax-landing",
+    "platform": "GitHub Pages (custom domain)",
+    "tags": ["music", "landing-page", "client-work"]
+  },
+  {
+    "slug": "so-soul-records-website",
+    "name": "So Soul Records",
+    "description": "UK urban-jazz & R&B label site featuring Edy Forey and emerging artists.",
+    "url": "http://sosoulrecords.com/",
+    "repo": "https://github.com/guifry/so-soul-records-website",
+    "platform": "GitHub Pages (custom domain)",
+    "tags": ["music", "label", "client-work"]
+  },
+  {
+    "slug": "voice-gym-tracker",
+    "name": "Ever",
+    "description": "Voice-first gym tracking — log your sets by speaking, data lands straight in a Google Sheet.",
+    "url": "https://voice-gym-tracker.vercel.app",
+    "repo": "https://github.com/guifry/voice-gym-tracker",
+    "platform": "Vercel",
+    "tags": ["fitness", "voice", "spreadsheet"]
+  },
+  {
+    "slug": "jonny-diggens-website",
+    "name": "Jonny Diggens — Vercel preview",
+    "description": "Vercel-hosted version of the Jonny Diggens saxophonist landing page (mirrors jonnydiggens.com).",
+    "url": "https://jonny-diggens-website.vercel.app",
+    "repo": "https://github.com/guifry/jonny-diggens-website",
+    "platform": "Vercel",
+    "tags": ["music", "landing-page", "client-work"]
+  },
+  {
+    "slug": "taisk-forecast-backend",
+    "name": "TAISK",
+    "description": "FCA-compliant cashflow forecasting tool for early-stage founders seeking funding.",
+    "url": "https://taisk-forecast-backend.vercel.app",
+    "repo": "https://github.com/guifry/taisk-forecast-backend",
+    "platform": "Vercel",
+    "tags": ["finance", "fundraising", "forecasting"]
+  }
+]
