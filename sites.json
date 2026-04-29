@@ -79,5 +79,14 @@
     "repo": "https://github.com/guifry/taisk-forecast-backend",
     "platform": "Vercel",
     "tags": ["finance", "fundraising", "forecasting"]
+  },
+  {
+    "slug": "midi-keyboard",
+    "name": "MIDI Keyboard & Metronome",
+    "description": "Clickable piano keyboard and metronome — play with mouse or computer keyboard, Web Audio API.",
+    "url": "https://guifry.github.io/midi-keyboard/",
+    "repo": "https://github.com/guifry/midi-keyboard",
+    "platform": "GitHub Pages",
+    "tags": ["music", "audio", "tool"]
   }
 ]
