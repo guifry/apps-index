@@ -1,5 +1,14 @@
 [
   {
+    "slug": "culture-quizzer",
+    "name": "Culture Quizzer",
+    "description": "Broad cultural knowledge practice with map, art, politics, history, music, philosophy, and solar-system quiz modes.",
+    "url": "https://guifry.github.io/culture-quizzer/",
+    "repo": "https://github.com/guifry/culture-quizzer",
+    "platform": "GitHub Pages",
+    "tags": ["education", "quiz", "culture"]
+  },
+  {
     "slug": "ray-peat-db",
     "name": "Ray Peat archive",
     "description": "Full-text search across every article on raypeat.com with fuzzy matching and quoted snippets.",
