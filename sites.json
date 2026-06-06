@@ -88,5 +88,14 @@
     "repo": "https://github.com/guifry/midi-keyboard",
     "platform": "GitHub Pages",
     "tags": ["music", "audio", "tool"]
+  },
+  {
+    "slug": "scotland-schools-map",
+    "name": "Scotland Top Schools Map",
+    "description": "Interactive map of Scotland's top-quartile state secondary schools (top 86 of 342) ranked by 5+ Highers, 2023–24, with per-school markers and a filterable list.",
+    "url": "https://guifry.github.io/scotland-schools-map/",
+    "repo": "https://github.com/guifry/scotland-schools-map",
+    "platform": "GitHub Pages",
+    "tags": ["map", "education", "scotland", "data"]
   }
 ]
