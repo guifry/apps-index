@@ -18,6 +18,15 @@
     "tags": ["search", "archive", "static"]
   },
   {
+    "slug": "biohacking-compounds",
+    "name": "Biohacking Compendium",
+    "description": "Bottom-up education in human physiology — foundations, deep dives, and a 250+ compound database, with honest calibration on the evidence.",
+    "url": "https://biohacking-compounds-pi.vercel.app/",
+    "repo": "https://github.com/guifry/biohacking-compounds",
+    "platform": "Vercel",
+    "tags": ["health", "biohacking", "reference"]
+  },
+  {
     "slug": "3-way-forecasting-mathematics",
     "name": "Three-Way Forecasting — Mathematics",
     "description": "Readable introduction to the maths behind three-way (P&L, balance sheet, cashflow) business forecasting.",
