@@ -106,5 +106,14 @@
     "repo": "https://github.com/guifry/scotland-schools-map",
     "platform": "GitHub Pages",
     "tags": ["map", "education", "scotland", "data"]
+  },
+  {
+    "slug": "protection-guide",
+    "name": "Protection Guide (private)",
+    "description": "Password-protected, client-side-encrypted walkthrough for arranging family protection insurance. Household use only.",
+    "url": "https://protection-guide.pages.dev/",
+    "repo": "https://protection-guide.pages.dev/",
+    "platform": "Cloudflare Pages",
+    "tags": ["private", "insurance", "guide", "encrypted"]
   }
 ]
