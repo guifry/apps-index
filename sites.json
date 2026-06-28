@@ -21,9 +21,9 @@
     "slug": "biohacking-compounds",
     "name": "Biohacking Compendium",
     "description": "Bottom-up education in human physiology — foundations, deep dives, and a 250+ compound database, with honest calibration on the evidence.",
-    "url": "https://biohacking-compounds-pi.vercel.app/",
+    "url": "https://compoundium.pages.dev/",
     "repo": "https://github.com/guifry/biohacking-compounds",
-    "platform": "Vercel",
+    "platform": "Cloudflare Pages",
     "tags": ["health", "biohacking", "reference"]
   },
   {
@@ -75,9 +75,9 @@
     "slug": "jonny-diggens-website",
     "name": "Jonny Diggens — Vercel preview",
     "description": "Vercel-hosted version of the Jonny Diggens saxophonist landing page (mirrors jonnydiggens.com).",
-    "url": "https://jonny-diggens-website.vercel.app",
+    "url": "https://jonny-diggens.pages.dev",
     "repo": "https://github.com/guifry/jonny-diggens-website",
-    "platform": "Vercel",
+    "platform": "Cloudflare Pages",
     "tags": ["music", "landing-page", "client-work"]
   },
   {
@@ -93,9 +93,9 @@
     "slug": "midi-keyboard",
     "name": "MIDI Keyboard & Metronome",
     "description": "Clickable piano keyboard and metronome — play with mouse or computer keyboard, Web Audio API.",
-    "url": "https://midi-keyboard-theta.vercel.app",
+    "url": "https://midi-keyboard-634.pages.dev",
     "repo": "https://github.com/guifry/midi-keyboard",
-    "platform": "GitHub Pages",
+    "platform": "Cloudflare Pages",
     "tags": ["music", "audio", "tool"]
   },
   {
