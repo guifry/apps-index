@@ -1,5 +1,14 @@
 [
   {
+    "slug": "language-cheatsheets",
+    "name": "Language Cheat Sheets",
+    "description": "Survival-level hover dictionaries for French and Polish — hover any phrase for a word-by-word breakdown, pronunciation, and why it's built that way.",
+    "url": "https://guifry.github.io/language-cheatsheets/",
+    "repo": "https://github.com/guifry/language-cheatsheets",
+    "platform": "GitHub Pages",
+    "tags": ["language", "education", "french", "polish"]
+  },
+  {
     "slug": "culture-quizzer",
     "name": "Culture Quizzer",
     "description": "Broad cultural knowledge practice with map, art, politics, history, music, philosophy, and solar-system quiz modes.",
