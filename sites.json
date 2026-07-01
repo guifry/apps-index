@@ -1,12 +1,32 @@
 [
   {
+    "slug": "tax-around-the-world",
+    "name": "Tax Around the World",
+    "description": "Interactive world map and rankings of every country's tax system — corporate, personal income (with brackets), VAT, capital gains, dividends and social security — with sourced figures for 227 countries.",
+    "url": "https://tax-around-the-world.pages.dev/",
+    "repo": "https://github.com/guifry/tax-around-the-world",
+    "platform": "Cloudflare Pages",
+    "tags": [
+      "tax",
+      "map",
+      "reference",
+      "finance",
+      "world"
+    ]
+  },
+  {
     "slug": "language-cheatsheets",
     "name": "Language Cheat Sheets",
     "description": "Survival-level hover dictionaries for French and Polish — hover any phrase for a word-by-word breakdown, pronunciation, and why it's built that way.",
     "url": "https://guifry.github.io/language-cheatsheets/",
     "repo": "https://github.com/guifry/language-cheatsheets",
     "platform": "GitHub Pages",
-    "tags": ["language", "education", "french", "polish"]
+    "tags": [
+      "language",
+      "education",
+      "french",
+      "polish"
+    ]
   },
   {
     "slug": "culture-quizzer",
@@ -15,7 +35,11 @@
     "url": "https://guifry.github.io/culture-quizzer/",
     "repo": "https://github.com/guifry/culture-quizzer",
     "platform": "GitHub Pages",
-    "tags": ["education", "quiz", "culture"]
+    "tags": [
+      "education",
+      "quiz",
+      "culture"
+    ]
   },
   {
     "slug": "ray-peat-db",
@@ -24,7 +48,11 @@
     "url": "https://guifry.github.io/ray-peat-db/",
     "repo": "https://github.com/guifry/ray-peat-db",
     "platform": "GitHub Pages",
-    "tags": ["search", "archive", "static"]
+    "tags": [
+      "search",
+      "archive",
+      "static"
+    ]
   },
   {
     "slug": "biohacking-compounds",
@@ -33,7 +61,11 @@
     "url": "https://compoundium.pages.dev/",
     "repo": "https://github.com/guifry/biohacking-compounds",
     "platform": "Cloudflare Pages",
-    "tags": ["health", "biohacking", "reference"]
+    "tags": [
+      "health",
+      "biohacking",
+      "reference"
+    ]
   },
   {
     "slug": "3-way-forecasting-mathematics",
@@ -42,7 +74,11 @@
     "url": "https://guifry.github.io/3-way-forecasting-mathematics/",
     "repo": "https://github.com/guifry/3-way-forecasting-mathematics",
     "platform": "GitHub Pages",
-    "tags": ["finance", "course", "maths"]
+    "tags": [
+      "finance",
+      "course",
+      "maths"
+    ]
   },
   {
     "slug": "cpge-mathematics",
@@ -51,7 +87,11 @@
     "url": "https://guifry.github.io/cpge-mathematics/",
     "repo": "https://github.com/guifry/cpge-mathematics",
     "platform": "GitHub Pages",
-    "tags": ["maths", "education", "curriculum"]
+    "tags": [
+      "maths",
+      "education",
+      "curriculum"
+    ]
   },
   {
     "slug": "jonny-sax-landing",
@@ -60,7 +100,11 @@
     "url": "http://jonnydiggens.com/",
     "repo": "https://github.com/guifry/jonny-sax-landing",
     "platform": "GitHub Pages (custom domain)",
-    "tags": ["music", "landing-page", "client-work"]
+    "tags": [
+      "music",
+      "landing-page",
+      "client-work"
+    ]
   },
   {
     "slug": "so-soul-records-website",
@@ -69,7 +113,11 @@
     "url": "http://sosoulrecords.com/",
     "repo": "https://github.com/guifry/so-soul-records-website",
     "platform": "GitHub Pages (custom domain)",
-    "tags": ["music", "label", "client-work"]
+    "tags": [
+      "music",
+      "label",
+      "client-work"
+    ]
   },
   {
     "slug": "voice-gym-tracker",
@@ -78,7 +126,11 @@
     "url": "https://voice-gym-tracker.vercel.app",
     "repo": "https://github.com/guifry/voice-gym-tracker",
     "platform": "Vercel",
-    "tags": ["fitness", "voice", "spreadsheet"]
+    "tags": [
+      "fitness",
+      "voice",
+      "spreadsheet"
+    ]
   },
   {
     "slug": "jonny-diggens-website",
@@ -87,7 +139,11 @@
     "url": "https://jonny-diggens.pages.dev",
     "repo": "https://github.com/guifry/jonny-diggens-website",
     "platform": "Cloudflare Pages",
-    "tags": ["music", "landing-page", "client-work"]
+    "tags": [
+      "music",
+      "landing-page",
+      "client-work"
+    ]
   },
   {
     "slug": "taisk-forecast-backend",
@@ -96,7 +152,11 @@
     "url": "https://taisk-forecast-backend.vercel.app",
     "repo": "https://github.com/guifry/taisk-forecast-backend",
     "platform": "Vercel",
-    "tags": ["finance", "fundraising", "forecasting"]
+    "tags": [
+      "finance",
+      "fundraising",
+      "forecasting"
+    ]
   },
   {
     "slug": "midi-keyboard",
@@ -105,7 +165,11 @@
     "url": "https://midi-keyboard-634.pages.dev",
     "repo": "https://github.com/guifry/midi-keyboard",
     "platform": "Cloudflare Pages",
-    "tags": ["music", "audio", "tool"]
+    "tags": [
+      "music",
+      "audio",
+      "tool"
+    ]
   },
   {
     "slug": "scotland-schools-map",
@@ -114,7 +178,12 @@
     "url": "https://guifry.github.io/scotland-schools-map/",
     "repo": "https://github.com/guifry/scotland-schools-map",
     "platform": "GitHub Pages",
-    "tags": ["map", "education", "scotland", "data"]
+    "tags": [
+      "map",
+      "education",
+      "scotland",
+      "data"
+    ]
   },
   {
     "slug": "protection-guide",
@@ -123,6 +192,11 @@
     "url": "https://protection-guide.pages.dev/",
     "repo": "https://protection-guide.pages.dev/",
     "platform": "Cloudflare Pages",
-    "tags": ["private", "insurance", "guide", "encrypted"]
+    "tags": [
+      "private",
+      "insurance",
+      "guide",
+      "encrypted"
+    ]
   }
 ]
